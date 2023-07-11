@@ -1,0 +1,8 @@
+E:\03 VisualStudio2010\TestProject\Timer\Timer\bin\Debug\Timer.exe
+E:\03 VisualStudio2010\TestProject\Timer\Timer\bin\Debug\Timer.pdb
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.Form1.resources
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.UserControl1.resources
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.exe
+E:\03 VisualStudio2010\TestProject\Timer\Timer\obj\x86\Debug\Timer.pdb

@@ -18,6 +18,12 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+//            MessageBox("Test");
+            textBox1.Text = "OK";
+        }
+
+        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }
